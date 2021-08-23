@@ -39,8 +39,8 @@ public:
         // Default Initialization Except Garbage Value
         id = 0;
         strcpy(name, "no name");
-        strcpy(name, "no post");
-        strcpy(name, "no department");
+        strcpy(post, "no post");
+        strcpy(department, "no department");
         salary = 0;
     }
 
